@@ -33,11 +33,11 @@ export default function About() {
           className="w-full md:w-2/3"
         >
           <p className="text-lg mb-4">
-            Hey there! I&apos;m Devvv, a passionate front-end web developer with
-            a sharp eye for design and a deep love for creating seamless user
-            experiences. My expertise lies in building modern, responsive, and
-            high-performance web applications using technologies like React.js,
-            Next.js, and TypeScript.
+            Hey there! I&apos;m Debasish Mishra aka Devvv, a passionate
+            front-end web developer with a sharp eye for design and a deep love
+            for creating seamless user experiences. My expertise lies in
+            building modern, responsive, and high-performance web applications
+            using technologies like React.js, Next.js, and TypeScript.
           </p>
           <p className="text-lg mb-4">
             Over the years, I&apos;ve had the opportunity to work on a diverse
