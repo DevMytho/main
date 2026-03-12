@@ -68,19 +68,12 @@ export default function About() {
               {" "}
               Drop me an email
             </a>{" "}
-            or {" "}
+            or{" "}
             <a
-              href="/assets/resume.pdf" target="_blank"
+              href="#contact"
               className="text-blue-400 underline italic hover:text-blue-500 transition-colors duration-200"
             >
-              View my resume
-            </a>{" "}
-            or {" "}
-            <a
-              href="/assets/resume.pdf" download="Debasish_Mishra_Resume.pdf"
-              className="text-blue-400 underline italic hover:text-blue-500 transition-colors duration-200"
-            >
-              Download my resume!
+              request my resume!
             </a>
           </p>
         </motion.div>
@@ -88,4 +81,3 @@ export default function About() {
     </motion.div>
   );
 }
-
