@@ -33,48 +33,31 @@ export default function About() {
           className="w-full md:w-2/3"
         >
           <p className="text-lg mb-4">
-            Hey there! I&apos;m Debasish Mishra aka Devvv, a passionate
-            front-end web developer with a sharp eye for design and a deep love
-            for creating seamless user experiences. My expertise lies in
-            building modern, responsive, and high-performance web applications
-            using technologies like React.js, Next.js, and TypeScript.
+            Hey, I&apos;m Debasish, most people just call me Dev.
           </p>
           <p className="text-lg mb-4">
-            Over the years, I&apos;ve had the opportunity to work on a diverse
-            range of projects — from crafting minimalist portfolio websites to
-            developing large-scale web applications. I thrive on solving complex
-            front-end challenges and delivering clean, scalable code that
-            enhances user interaction.
+            I&apos;m a Python developer and Founder of Astera, a small software
+            studio where we build real products for real clients. I enjoy
+            writing code that actually does something useful, whether
+            that&apos;s a network tool, a Discord bot, a desktop app, or a
+            client website.
           </p>
           <p className="text-lg mb-4">
-            Beyond coding, you&apos;ll often find me exploring the latest web
-            technologies, contributing to open-source projects, or fine-tuning
-            my skills through hands-on learning. I believe great design is about
-            solving problems, not just looking pretty — and that&apos;s the
-            philosophy I bring to every project I work on.
+            So far I&apos;ve shipped a port scanner with a full GUI, a 2D
+            shooter game, a Discord bot, an android app with modern ui/ux
+            (Nudge) and Neatify, a file organiser published on the Microsoft
+            Store. On the client side, Astera has delivered websites for a
+            clothing brand, a video editing agency, and a blogging platform.
           </p>
           <p className="text-lg mb-4">
-            I&apos;m always on the lookout for exciting collaborations,
-            challenging projects, or innovative ideas. If you&apos;re looking
-            for a dedicated front-end developer who can bring your vision to
-            life with precision and creativity — let&apos;s connect!
+            I also run a YouTube channel called MeowCode where I document what I
+            build. I think being able to explain your work matters just as much
+            as writing it.
           </p>
-          <p className=" text-xl font-bold">
-            Interested in working together?
-            <a
-              href="#contact"
-              className=" text-blue-400 underline italic hover:text-blue-500 transition-colors duration-200"
-            >
-              {" "}
-              Drop me an email
-            </a>{" "}
-            or{" "}
-            <a
-              href="#contact"
-              className="text-blue-400 underline italic hover:text-blue-500 transition-colors duration-200"
-            >
-              request my resume!
-            </a>
+          <p className=" text-lg mb-4">
+            Currently diving into Data Science while staying active in Python
+            and web development. Always open to internships, collaborations, or
+            just interesting conversations about things worth building.
           </p>
         </motion.div>
       </div>
