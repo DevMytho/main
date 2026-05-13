@@ -6,7 +6,7 @@ const projects = [
     title: "Port-scanner with GUI",
     image: "/image/port-scanner.png",
     description:
-      "A Python-based network security tool for Linux with a full GUI. Scans open ports, identifies services, and helps analyse network exposure. Documented on YouTube @MeowCode.",
+      "A Python based network security tool for Linux with a full GUI. Scans open ports, identifies services, and helps analyse network exposure. Documented on YouTube @MeowCode.",
     deployLink: "",
     githubLink: "https://github.com/devmytho/port-scanner",
   },
@@ -19,9 +19,17 @@ const projects = [
     deployLink: "",
     githubLink: "https://github.com/DevMytho/Nudge",
   },
-
   {
     id: "3",
+    title: "Briefed",
+    image: "/image/briefed.png",
+    description:
+      "A Python based news headlines sentiment analyser using vader and newsapi. It tells the recent headlines and the sentiment overall of the news.",
+    deployLink: "",
+    githubLink: "https://github.com/DevMytho/Briefed",
+  },
+  {
+    id: "4",
     title: "Shooter Game (Pygame)",
     image: "/image/shooter.png",
     description: "A simple platformer shooting game made using Pygame.",
@@ -29,7 +37,7 @@ const projects = [
     githubLink: "https://github.com/DevMytho/Shooter",
   },
   {
-    id: "4",
+    id: "5",
     title: "Profile Website (Old)",
     image: "/image/pf-web.png",
     description: "A personal profile website showcasing my work.",
@@ -37,7 +45,7 @@ const projects = [
     githubLink: "https://github.com/devmytho/profile",
   },
   {
-    id: "5",
+    id: "6",
     title: "SEO Modified Website",
     image: "/image/brew.png",
     description: "An SEO-optimized website for Discord Server.",
